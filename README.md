@@ -18,3 +18,14 @@ To run the Program,
 10. you will be asked to give the input to test
 11. If solvable, the output files will be generated on the same folder as the .ipynb file is saved ( similar to the three .txt files in the repository)
 
+You could also,
+1. https://nbviewer.jupyter.org/ paste the url of the .ipynb file in this website and hit go
+2. on the viewer page, you could choose mybinder to execute the code online
+3. Note few times, package error could be thrown
+
+You could also,
+1. Clone the repo which contains ipynb notebook (replace $link to the actual link)
+2. $ git clone $link
+3. Go to the path where ipynb is cloned
+4. Open Jupyter notebook to see the file. (replace $filename with the actual filename)
+5. jupyter notebook $filename
